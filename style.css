@@ -1,0 +1,91 @@
+.jumbotron {
+    background-color: white;
+    border: 1px solid #cccccc;
+    padding-top: 20px;
+    margin-top: 40px;
+}
+
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+h1 {
+    color: #4aaaa5;
+}
+
+.float {
+    float: right;
+}
+
+.rounded {
+    padding: 0px 30px 30px 0px;
+}
+
+
+.tony {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 15px;
+    font-size: 25px;
+}
+
+.margin {
+    margin: 0px;
+
+}
+
+h5 {
+    background-color: #4aaaa5;
+    text-align: center;
+    color: white;
+    padding: 7px;
+}
+
+.relative {
+    position: relative;
+    bottom: 50px;
+}
+
+.card-img-overlay {
+    padding: 0px;
+}
+
+.card {
+    margin-top: 30px;
+}
+
+.navbar {
+    border: 1px solid #cccccc;
+}
+
+.btn {
+    background-color: #4aaaa5;
+    border-color: #4aaaa5;
+}
+
+.profile {
+    height: 200px;
+    width: 150px;
+}
+
+@media screen and (max-width: 768px) {
+    .margin {
+        background-color: red;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .navigation {
+        background-color: blue;
+    }
+}
+
+@media screen and (min-width: 980px) {
+    .navigation {
+        background-color: purple;   
+    }
+}

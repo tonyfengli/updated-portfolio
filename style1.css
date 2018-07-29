@@ -1,0 +1,105 @@
+body {
+    color: #777777;
+    font: 'Georgia', 'Times', 'Times New Roman', 'serif';
+}
+
+header {
+    overflow: auto;
+    border-bottom: 1px solid #cccccc;
+    background-color: white;
+}
+
+a {
+    color: #777777;
+    text-decoration: none;
+}
+
+a li {
+    display: inline;
+}
+
+
+.navigation {
+    float: right;
+    margin-right: 16.3%;
+    margin-top: 1%;
+}
+
+.name {
+    float: left;
+    background-color: #4aaaa5;
+    width: 200px;
+    color: white;
+    padding: 10.5px 5px 10.5px 5px;
+    text-align: center;
+    font-size: 25px;
+    margin-left: 16.3%;
+}
+
+section {
+    margin-top: 25px;
+    clear: both;
+    border: 1px solid #cccccc;
+    background-color: white;
+    margin-left: 16.3%;
+    margin-right: 16.3%;
+    align-content: center;
+    overflow: auto;
+    
+}
+
+section h1 {
+    padding: 20px 0px 20px 0px;
+    border-bottom: 2px solid #cccccc;
+    margin-left: 25px;
+    margin-right: 25px;
+    color: #4aaaa5;
+    font-size: 25px;
+}
+
+
+section h1.contact {
+    padding: 20px 20px 20px 20px;
+    border-bottom: 1px solid #cccccc;
+    color: #4aaaa5;
+}
+
+section p {
+    padding: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+section img {
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 20px;
+}
+
+form {
+    padding: 20px;
+}
+
+form div {
+    padding: 10px;
+}
+
+.image {
+    position: relative;
+    height: auto;
+    width: 150px;
+    padding: 4% 20% 4% 20%;
+    float: left;
+}
+
+section h2 {
+    position: absolute;
+    top: 55%;
+    left: 35.3%;
+    background-color: #4aaaa5;
+    color:white;
+    padding: 2% 14.5% 2% 14.5%;
+    width: auto;
+    height: auto;
+    float: left;
+}
